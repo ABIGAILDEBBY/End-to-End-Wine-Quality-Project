@@ -1,5 +1,6 @@
-from mlProject.entity.config_entity import DataValidationConfig
 import pandas as pd
+
+from mlProject.entity.config_entity import DataValidationConfig
 
 
 class DataValidation:

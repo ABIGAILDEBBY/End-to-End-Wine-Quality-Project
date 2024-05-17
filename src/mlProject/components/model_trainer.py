@@ -1,7 +1,9 @@
-import pandas as pd
 import os
-from sklearn.linear_model import ElasticNet
+
 import joblib
+import pandas as pd
+from sklearn.linear_model import ElasticNet
+
 from mlProject.entity.config_entity import ModelTrainerConfig
 
 
