@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abigailwoolley/PersonalProjects/Data-Science/End-to-end-Machine-Learning-Project-with-mlflow/mlruns/0/e4996ac5bb66492a909f29a4dc06c314/artifacts
+end_time: 1716654436380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4996ac5bb66492a909f29a4dc06c314
+run_name: flawless-wren-769
+run_uuid: e4996ac5bb66492a909f29a4dc06c314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716654431385
+status: 3
+tags: []
+user_id: abigailwoolley

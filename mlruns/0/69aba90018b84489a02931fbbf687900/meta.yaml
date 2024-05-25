@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abigailwoolley/PersonalProjects/Data-Science/End-to-end-Machine-Learning-Project-with-mlflow/mlruns/0/69aba90018b84489a02931fbbf687900/artifacts
+end_time: 1716384476882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69aba90018b84489a02931fbbf687900
+run_name: languid-swan-72
+run_uuid: 69aba90018b84489a02931fbbf687900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716384472899
+status: 3
+tags: []
+user_id: abigailwoolley

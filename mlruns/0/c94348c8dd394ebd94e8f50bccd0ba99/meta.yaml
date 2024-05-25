@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abigailwoolley/PersonalProjects/Data-Science/End-to-end-Machine-Learning-Project-with-mlflow/mlruns/0/c94348c8dd394ebd94e8f50bccd0ba99/artifacts
+end_time: 1716658264840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c94348c8dd394ebd94e8f50bccd0ba99
+run_name: placid-lamb-490
+run_uuid: c94348c8dd394ebd94e8f50bccd0ba99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716658259761
+status: 3
+tags: []
+user_id: abigailwoolley

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abigailwoolley/PersonalProjects/Data-Science/End-to-end-Machine-Learning-Project-with-mlflow/mlruns/0/e5807a1385924531b0c35016d3d93a2c/artifacts
+end_time: 1716659357400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5807a1385924531b0c35016d3d93a2c
+run_name: wistful-bird-128
+run_uuid: e5807a1385924531b0c35016d3d93a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716659352790
+status: 3
+tags: []
+user_id: abigailwoolley

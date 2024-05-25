@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/abigailwoolley/PersonalProjects/Data-Science/End-to-end-Machine-Learning-Project-with-mlflow/mlruns/0/ae883a3d5e0642d08be36d28254c7500/artifacts
+end_time: 1716388124629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae883a3d5e0642d08be36d28254c7500
+run_name: wistful-skunk-916
+run_uuid: ae883a3d5e0642d08be36d28254c7500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716388120223
+status: 3
+tags: []
+user_id: abigailwoolley
